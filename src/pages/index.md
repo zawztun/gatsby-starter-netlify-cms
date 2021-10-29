@@ -1,23 +1,30 @@
 ---
 templateKey: index-page
 title: "World Arakanese Organization "
-image: /img/home-jumbotron.jpg
-heading: WAO
+image: /img/wao01.png
+heading: "WAO Goals:"
 subheading: "United We Stand "
 mainpitch:
-  title: Mission
+  title: WAO Mission
   description: >
     World Arakanese organization (WAO), founded in 2006 as a non-profit and
     community-based organization, is committed to supporting Arakanese around
     the world to create and facilitate the development of value-added human
     relations society. 
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "  To preserve and promote Arakanese language, literature,
+  traditions and cultural heritages that existed for many centuries; To provide
+  the humanitarian aids to Arakanese who suffer from natural disasters or
+  economic hardships; To support the social, community development, educational
+  and cultural activities of Arakanese community by all means. To establish and
+  encourage an open exchange of opinions, ideas and information between
+  individuals, groups or communities of Arakan concerning social, economic,
+  educational, health, religious and ethnic issues. But no discussion shall be
+  offensive to either individual or any group or organization. To encourage the
+  professional improvement of its members providing financial and intellectual
+  assistances. "
 intro:
   blurbs:
-    - image: /img/221615_170043333053339_7910545_n.jpeg
+    - image: /img/blog-index.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
