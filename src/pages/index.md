@@ -1,24 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: "World Arakanese Organization "
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: WAO
+subheading: "United We Stand "
 mainpitch:
-  title: Why Kaldi
+  title: Mission
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    World Arakanese organization (WAO), founded in 2006 as a non-profit and
+    community-based organization, is committed to supporting Arakanese around
+    the world to create and facilitate the development of value-added human
+    relations society. 
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/221615_170043333053339_7910545_n.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
