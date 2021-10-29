@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: "World Arakanese Organization "
-image: /img/sta-01.png
+image: /img/myuku.png
 heading: "WAO Goals:"
 subheading: "United We Stand "
 mainpitch:
